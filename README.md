@@ -1,4 +1,4 @@
-A fun mini project to implement Web Scraping Script in Python and fetch required details from a website. 
+A fun mini project to implement Web Scraping Script in Python. 
 
 Extract some data from a comics site and write it in a text file using Selenium and BeautifulSoup modules. Then wrote the Latest Chapter number and the URL details in a text file. 
 
